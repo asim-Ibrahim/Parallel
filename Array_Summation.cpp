@@ -1,9 +1,7 @@
 /*--------------------------------------------
+
     Array Summation using MPI Scatter and Reduce
     
-      <==Done By==>
-     Asim Ibrahim Khalil
-
   ---------------------------------------------*/
 
 #include <iostream>
